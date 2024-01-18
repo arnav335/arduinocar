@@ -1,1 +1,5 @@
-check for collision every 100ms
+esp video-: https://www.youtube.com/watch?v=iRmfnfAZRe4&t=96s
+serial communication video-: https://www.youtube.com/watch?v=iRmfnfAZRe4&t=96s
+motor controller video-: https://www.youtube.com/watch?v=dyZolgNOomk
+another video-: https://www.youtube.com/watch?v=_TEZ2-3H0GY
+SOCKETIO :- https://www.youtube.com/watch?v=3r3QoSwwnwg&t=462s
