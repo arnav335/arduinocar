@@ -1,0 +1,18 @@
+[
+    {
+        "speed": 10,
+        "direction": 34,
+        "coords":{
+            "x": 43,
+            "y":24
+        }
+    },
+    {
+        "speed": 10,
+        "direction": 56,
+        "coords":{
+            "x": 56,
+            "y":45
+        }
+    }
+]
